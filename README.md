@@ -1,0 +1,1 @@
+# SMAI_course_assignments

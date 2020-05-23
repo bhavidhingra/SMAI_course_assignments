@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/44009896/python-pandas-copy-columns
+https://stackoverflow.com/questions/40144769/how-to-select-the-last-column-of-dataframe
+https://erikrood.com/Python_References/dropping_rows_cols_pandas.html
+

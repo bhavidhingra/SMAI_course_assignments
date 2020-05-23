@@ -1,0 +1,16 @@
+https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com
+https://stackoverflow.com/questions/43126276/calculating-error-in-pca
+https://stackoverflow.com/questions/34007632/how-to-remove-a-column-in-a-numpy-array/34008274
+https://stackoverflow.com/questions/36566844/pca-projecting-and-reconstruction-in-scikit
+
+GMM:
+https://jakevdp.github.io/PythonDataScienceHandbook/05.12-gaussian-mixtures.html
+
+Hierarchical Clustering:
+https://stackabuse.com/hierarchical-clustering-with-python-and-scikit-learn/
+
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+
+http://ethen8181.github.io/machine-learning/unbalanced/unbalanced.html#choosing-the-suitable-cutoff-value
+
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic

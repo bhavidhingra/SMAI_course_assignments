@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/16729483/converting-strings-to-floats-in-a-dataframe
+https://stackoverflow.com/questions/30121181/how-to-convert-string-into-float-value-in-the-dataframe
+https://chrisalbon.com/python/data_wrangling/pandas_dropping_column_and_rows/
+
+https://csiu.github.io/blog/update/2016/09/25/hmm.html

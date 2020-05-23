@@ -1,0 +1,14 @@
+https://pythonmachinelearning.pro/all-about-autoencoders/
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+https://github.com/ardendertat/Applied-Deep-Learning-with-Keras/blob/master/notebooks/Part%203%20-%20Autoencoders.ipynb
+https://www.edureka.co/blog/autoencoders-tutorial/
+https://rubikscode.net/2018/11/26/3-ways-to-implement-autoencoders-with-tensorflow-and-python/
+
+https://scikit-learn.org/stable/auto_examples/neighbors/plot_digits_kde_sampling.html#sphx-glr-auto-examples-neighbors-plot-digits-kde-sampling-py
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
+https://plot.ly/scikit-learn/plot-kde-1d/
+https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
+
+
+https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_selection.html#sphx-glr-auto-examples-mixture-plot-gmm-selection-py

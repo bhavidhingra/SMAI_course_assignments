@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/29530232/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe
+https://cmdlinetips.com/2018/01/how-to-get-unique-values-from-a-column-in-pandas-data-frame/
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+https://stackoverflow.com/questions/24147278/how-do-i-create-test-and-train-samples-from-one-dataframe-with-pandas
+https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+https://stackoverflow.com/questions/13688410/dictionary-object-to-decision-tree-in-pydot
+https://stackoverflow.com/questions/30418481/error-dict-object-has-no-attribute-iteritems
+https://github.com/BVLC/caffe/issues/4911
+https://stackoverflow.com/questions/48371856/count-the-number-of-occurrences-of-a-certain-value-in-a-dictionary-in-python
+https://stackoverflow.com/questions/15943769/how-do-i-get-the-row-count-of-a-pandas-dataframe
+https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas
+https://stackoverflow.com/questions/22698687/how-to-sort-2d-array-numpy-ndarray-based-to-the-second-column-in-python
+https://stackoverflow.com/questions/39627852/why-does-the-shape-of-a-1d-array-not-show-the-number-of-rows-as-1
+https://stackoverflow.com/questions/7604966/maximum-and-minimum-values-for-ints
+
